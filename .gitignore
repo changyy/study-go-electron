@@ -1,0 +1,7 @@
+*.swp
+node_modules/
+vendor/
+output/
+bind_darwin_amd64.go
+bind_linux_amd64.go
+bind_windows_amd64.go
